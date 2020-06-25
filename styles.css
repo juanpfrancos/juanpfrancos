@@ -1,0 +1,51 @@
+h1{
+font-family: 'Luckiest Guy', cursive;
+}
+h2{
+font-family: 'Luckiest Guy', cursive;
+padding-top: 1em;
+text-shadow: 1.5px 1.5px 1.5px white;
+color:white;
+}
+li{
+display: inline-block;
+}
+a{
+text-decoration: none;
+font-family: 'Luckiest Guy', cursive;
+}
+a:link{
+text-decoration: none;
+}
+nav{
+padding-top: 2em;
+}
+
+#inst:hover{
+color: #cc5de8;
+}
+#wpp:hover{
+color: #3eba4f;
+}
+#twitt:hover{
+color: #1da1f2;
+}
+#linkn:hover{
+color:#0077b5;
+}
+#socialb{
+font-size: 4em;
+padding-top: 1em;
+}
+.menut{
+margin:1em;
+font-size: 2em;
+}
+.title{
+font-size: 4em;
+color: white;
+margin: ;
+text-shadow:5px 5px 5px #4d4b4d;
+border-color: black;
+padding-top: 1em;
+}
