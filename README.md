@@ -9,7 +9,7 @@ I'm a software developer with **over 6 years of experience** in designing, devel
 - **Languages**: Python (Django, Flask, FastAPI), JavaScript (ReactJS, VueJS), Bash
 - **Databases**: MySQL, Oracle, MongoDB
 - **☁️ Cloud**: Azure (Azure Functions, Cognitive Services, BlobStorage, KeyVault, EventGrid, Service Bus)
-- **Version Control**: GitHub & GitLab
+- **Version Control**: Git
 - **🌐 Cloud Computing**: Development of cloud-native applications on Azure
 - **🐧 Linux**: Proficient in GNU/Linux-based systems
 - **🌐 Web Development**: Full-stack expertise
@@ -24,7 +24,7 @@ I'm a software developer with **over 6 years of experience** in designing, devel
 You can reach out to me on:
 
 - [LinkedIn](https://www.linkedin.com/in/juanpfrancos/)
-- Email: [your@email.com](mailto:juanpfrancos@programmer.net)
+- Email: [juanpfrancos@programmer.net](mailto:juanpfrancos@programmer.net)
 
 Feel free to connect if you want to collaborate on exciting projects or just chat about tech!
 
