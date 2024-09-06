@@ -6,7 +6,7 @@ I'm a software developer with **over 6 years of experience** in designing, devel
 
 ## 💻 Technical Skills
 
-- **Languages**: Python (Django, Flask, FastAPI), JavaScript (ReactJS, VueJS), Bash
+- **Languages**: Python (Django, FastAPI), JavaScript (ReactJS, VueJS), Bash
 - **Databases**: MySQL, Oracle, MongoDB
 - **☁️ Cloud**: Azure (Azure Functions, Cognitive Services, BlobStorage, KeyVault, EventGrid, Service Bus)
 - **Version Control**: Git
